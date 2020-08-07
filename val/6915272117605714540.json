@@ -1,0 +1,382 @@
+{
+    "group": [
+        {
+            "seq_id": "A", 
+            "pic_list": [
+                "19591535112300011505", 
+                "19591535112300011592", 
+                "19591535112300011593", 
+                "19591535112300011594", 
+                "19591535112300011595", 
+                "19591535112300011596"
+            ]
+        }, 
+        {
+            "seq_id": "B", 
+            "pic_list": [
+                "18559829111900024175", 
+                "18559829111900024176", 
+                "18559829111900024177", 
+                "18559829111900024178", 
+                "18559829111900024179", 
+                "18559829111900024180"
+            ]
+        }
+    ], 
+    "match": [
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_5"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_9"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_6"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_10"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_4"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_7"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_11"
+        }, 
+        {
+            "sign_id": "sign_A_4", 
+            "match_sign_id": "sign_B_8"
+        }, 
+        {
+            "sign_id": "sign_A_4", 
+            "match_sign_id": "sign_B_12"
+        }, 
+        {
+            "sign_id": "sign_A_5", 
+            "match_sign_id": " "
+        }, 
+        {
+            "sign_id": "sign_A_6", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_6", 
+            "match_sign_id": "sign_B_5"
+        }, 
+        {
+            "sign_id": "sign_A_6", 
+            "match_sign_id": "sign_B_9"
+        }, 
+        {
+            "sign_id": "sign_A_7", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_7", 
+            "match_sign_id": "sign_B_6"
+        }, 
+        {
+            "sign_id": "sign_A_7", 
+            "match_sign_id": "sign_B_10"
+        }, 
+        {
+            "sign_id": "sign_A_8", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_8", 
+            "match_sign_id": "sign_B_4"
+        }, 
+        {
+            "sign_id": "sign_A_8", 
+            "match_sign_id": "sign_B_7"
+        }, 
+        {
+            "sign_id": "sign_A_8", 
+            "match_sign_id": "sign_B_11"
+        }, 
+        {
+            "sign_id": "sign_A_9", 
+            "match_sign_id": "sign_B_8"
+        }, 
+        {
+            "sign_id": "sign_A_9", 
+            "match_sign_id": "sign_B_12"
+        }, 
+        {
+            "sign_id": "sign_A_10", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_10", 
+            "match_sign_id": "sign_B_6"
+        }, 
+        {
+            "sign_id": "sign_A_10", 
+            "match_sign_id": "sign_B_10"
+        }, 
+        {
+            "sign_id": "sign_A_11", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_11", 
+            "match_sign_id": "sign_B_4"
+        }, 
+        {
+            "sign_id": "sign_A_11", 
+            "match_sign_id": "sign_B_7"
+        }, 
+        {
+            "sign_id": "sign_A_11", 
+            "match_sign_id": "sign_B_11"
+        }, 
+        {
+            "sign_id": "sign_A_12", 
+            "match_sign_id": "sign_B_8"
+        }, 
+        {
+            "sign_id": "sign_A_12", 
+            "match_sign_id": "sign_B_12"
+        }
+    ], 
+    "signs": [
+        {
+            "pic_id": "19591535112300011592", 
+            "h": 10, 
+            "w": 8, 
+            "y": 349, 
+            "x": 369, 
+            "sign_id": "sign_A_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011592", 
+            "h": 12, 
+            "w": 9, 
+            "y": 352, 
+            "x": 377, 
+            "sign_id": "sign_A_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011592", 
+            "h": 7, 
+            "w": 5, 
+            "y": 350, 
+            "x": 754, 
+            "sign_id": "sign_A_3", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011592", 
+            "h": 7, 
+            "w": 7, 
+            "y": 356, 
+            "x": 756, 
+            "sign_id": "sign_A_4", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011592", 
+            "h": 7, 
+            "w": 6, 
+            "y": 353, 
+            "x": 761, 
+            "sign_id": "sign_A_5", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011593", 
+            "h": 14, 
+            "w": 15, 
+            "y": 304, 
+            "x": 240, 
+            "sign_id": "sign_A_6", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011593", 
+            "h": 14, 
+            "w": 15, 
+            "y": 313, 
+            "x": 258, 
+            "sign_id": "sign_A_7", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011593", 
+            "h": 13, 
+            "w": 10, 
+            "y": 315, 
+            "x": 811, 
+            "sign_id": "sign_A_8", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011593", 
+            "h": 13, 
+            "w": 10, 
+            "y": 309, 
+            "x": 820, 
+            "sign_id": "sign_A_9", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011594", 
+            "h": 21, 
+            "w": 20, 
+            "y": 225, 
+            "x": 25, 
+            "sign_id": "sign_A_10", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011594", 
+            "h": 22, 
+            "w": 19, 
+            "y": 227, 
+            "x": 950, 
+            "sign_id": "sign_A_11", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19591535112300011594", 
+            "h": 23, 
+            "w": 18, 
+            "y": 206, 
+            "x": 981, 
+            "sign_id": "sign_A_12", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024175", 
+            "h": 8, 
+            "w": 5, 
+            "y": 310, 
+            "x": 681, 
+            "sign_id": "sign_B_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024176", 
+            "h": 7, 
+            "w": 6, 
+            "y": 300, 
+            "x": 407, 
+            "sign_id": "sign_B_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024176", 
+            "h": 6, 
+            "w": 5, 
+            "y": 303, 
+            "x": 415, 
+            "sign_id": "sign_B_3", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024176", 
+            "h": 8, 
+            "w": 7, 
+            "y": 298, 
+            "x": 689, 
+            "sign_id": "sign_B_4", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024177", 
+            "h": 8, 
+            "w": 8, 
+            "y": 273, 
+            "x": 306, 
+            "sign_id": "sign_B_5", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024177", 
+            "h": 9, 
+            "w": 9, 
+            "y": 278, 
+            "x": 321, 
+            "sign_id": "sign_B_6", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024177", 
+            "h": 9, 
+            "w": 6, 
+            "y": 274, 
+            "x": 711, 
+            "sign_id": "sign_B_7", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024177", 
+            "h": 8, 
+            "w": 7, 
+            "y": 270, 
+            "x": 712, 
+            "sign_id": "sign_B_8", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024178", 
+            "h": 17, 
+            "w": 17, 
+            "y": 198, 
+            "x": 40, 
+            "sign_id": "sign_B_9", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024178", 
+            "h": 15, 
+            "w": 15, 
+            "y": 214, 
+            "x": 85, 
+            "sign_id": "sign_B_10", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024178", 
+            "h": 13, 
+            "w": 11, 
+            "y": 207, 
+            "x": 750, 
+            "sign_id": "sign_B_11", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18559829111900024178", 
+            "h": 14, 
+            "w": 11, 
+            "y": 193, 
+            "x": 758, 
+            "sign_id": "sign_B_12", 
+            "type": "301"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "group": [
+        {
+            "seq_id": "A", 
+            "pic_list": [
+                "19589897110700003778", 
+                "19589897110700003779", 
+                "19589897110700003780", 
+                "19589897110700003781"
+            ]
+        }, 
+        {
+            "seq_id": "B", 
+            "pic_list": [
+                "18558298081400001445", 
+                "18558298081400001446", 
+                "18558298081400001447", 
+                "18558298081400001448", 
+                "18558298081400001449"
+            ]
+        }
+    ], 
+    "match": [
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_4"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_5"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_6"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_7"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_4"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_5"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_6"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_7"
+        }
+    ], 
+    "signs": [
+        {
+            "pic_id": "19589897110700003779", 
+            "h": 8, 
+            "w": 9, 
+            "y": 214, 
+            "x": 811, 
+            "sign_id": "sign_A_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "19589897110700003780", 
+            "h": 14, 
+            "w": 12, 
+            "y": 143, 
+            "x": 958, 
+            "sign_id": "sign_A_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001445", 
+            "h": 8, 
+            "w": 7, 
+            "y": 344, 
+            "x": 799, 
+            "sign_id": "sign_B_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001446", 
+            "h": 8, 
+            "w": 7, 
+            "y": 330, 
+            "x": 758, 
+            "sign_id": "sign_B_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001447", 
+            "h": 8, 
+            "w": 6, 
+            "y": 300, 
+            "x": 686, 
+            "sign_id": "sign_B_3", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001448", 
+            "h": 11, 
+            "w": 11, 
+            "y": 246, 
+            "x": 667, 
+            "sign_id": "sign_B_4", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001448", 
+            "h": 7, 
+            "w": 6, 
+            "y": 356, 
+            "x": 899, 
+            "sign_id": "sign_B_5", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001448", 
+            "h": 6, 
+            "w": 7, 
+            "y": 355, 
+            "x": 905, 
+            "sign_id": "sign_B_6", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558298081400001449", 
+            "h": 20, 
+            "w": 19, 
+            "y": 128, 
+            "x": 716, 
+            "sign_id": "sign_B_7", 
+            "type": "301"
+        }
+    ]
+}

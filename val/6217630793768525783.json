@@ -1,0 +1,163 @@
+{
+    "group": [
+        {
+            "seq_id": "A", 
+            "pic_list": [
+                "20598910020400008105", 
+                "20598910020400008106", 
+                "20598910020400008107", 
+                "20598910020400008108", 
+                "20598910020400008109", 
+                "20598910020400008110", 
+                "20598910020400008111", 
+                "20598910020400008112"
+            ]
+        }, 
+        {
+            "seq_id": "B", 
+            "pic_list": [
+                "18558727091300024021", 
+                "18558727091300024022", 
+                "18558727091300024023", 
+                "18558727091300024024", 
+                "18558727091300024025"
+            ]
+        }
+    ], 
+    "match": [
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_1", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_2", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_3", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_4", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_4", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_4", 
+            "match_sign_id": "sign_B_3"
+        }, 
+        {
+            "sign_id": "sign_A_5", 
+            "match_sign_id": "sign_B_1"
+        }, 
+        {
+            "sign_id": "sign_A_5", 
+            "match_sign_id": "sign_B_2"
+        }, 
+        {
+            "sign_id": "sign_A_5", 
+            "match_sign_id": "sign_B_3"
+        }
+    ], 
+    "signs": [
+        {
+            "pic_id": "20598910020400008108", 
+            "h": 8, 
+            "w": 6, 
+            "y": 361, 
+            "x": 750, 
+            "sign_id": "sign_A_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "20598910020400008109", 
+            "h": 9, 
+            "w": 8, 
+            "y": 340, 
+            "x": 751, 
+            "sign_id": "sign_A_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "20598910020400008110", 
+            "h": 10, 
+            "w": 8, 
+            "y": 318, 
+            "x": 783, 
+            "sign_id": "sign_A_3", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "20598910020400008111", 
+            "h": 16, 
+            "w": 10, 
+            "y": 275, 
+            "x": 850, 
+            "sign_id": "sign_A_4", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "20598910020400008112", 
+            "h": 19, 
+            "w": 15, 
+            "y": 233, 
+            "x": 837, 
+            "sign_id": "sign_A_5", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558727091300024023", 
+            "h": 7, 
+            "w": 7, 
+            "y": 381, 
+            "x": 703, 
+            "sign_id": "sign_B_1", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558727091300024024", 
+            "h": 8, 
+            "w": 7, 
+            "y": 362, 
+            "x": 719, 
+            "sign_id": "sign_B_2", 
+            "type": "301"
+        }, 
+        {
+            "pic_id": "18558727091300024025", 
+            "h": 12, 
+            "w": 10, 
+            "y": 305, 
+            "x": 791, 
+            "sign_id": "sign_B_3", 
+            "type": "301"
+        }
+    ]
+}
